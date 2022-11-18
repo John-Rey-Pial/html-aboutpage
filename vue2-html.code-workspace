@@ -1,0 +1,13 @@
+{
+    "folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../vue2-mathworld"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "vue2-html"
+    }
+}
